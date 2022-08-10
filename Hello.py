@@ -1,1 +1,2 @@
-print("Hello world!")
+a = str("Hello world")
+print(a + "!")
